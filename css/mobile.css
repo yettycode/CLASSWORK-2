@@ -1,0 +1,17 @@
+@media ( max-width: 768px){
+    .navbar ul li{
+        display: none;
+    }
+    .grid{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    }
+    .grid-2{
+
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    }
+    
+
+
+}
